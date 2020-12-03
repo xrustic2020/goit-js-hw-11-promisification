@@ -15,7 +15,13 @@ body {
 }
 
 h2 {
-  margin: 0 auto;
+  margin: 0 auto 20px auto;
   width: 30%;
+  text-align: center;
+}
+
+p {
+  width: 80%;
+  margin: 0 auto;
   text-align: center;
 }
